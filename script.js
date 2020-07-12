@@ -1,3 +1,1 @@
-function msg(){  
-    alert("Juan Carlos hijo de puta");  
-   }  
+alert("Juan Carlos hijo de puta");  
