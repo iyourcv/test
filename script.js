@@ -1,1 +1,1 @@
-alert("Juan Carlos hijo de puta");  
+alert("Juan Carlos anormal");  
